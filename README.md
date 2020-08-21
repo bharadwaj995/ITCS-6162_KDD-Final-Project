@@ -105,7 +105,7 @@ Classification Metrics include the following scores
 3. Area under Curve (AUC)
 - Area under ROC Curve is a performance metric for measuring the ability of a binary classifier to discriminate between positive and negative classes.
 
-4.F-Measure
+4. F-Measure
 - F-measure (also F-score) is a measure of a test’s accuracy that considers both the precision and the recall of the test to compute the score. Precision is the number of correct positive results divided by the total predicted positive observations.
 
 5. Recall, 
